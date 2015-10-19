@@ -45,8 +45,14 @@ WizardJS is a ridiculously easy jQuery plugin to create wizards.
 3. Call the plugin:
 
 ```javascript
-$("#element").defaultPluginName({
-	propertyName: "a custom value"
+$("#wizard").defaultPluginName({
+	next: ".next",
+	previous: ".previous",
+	steps: ".wizard-step",
+	activeClass: "active",
+	onNext: function () {},
+	onPrevious: function () {},
+	onChange: function () {}
 });
 ```
 
