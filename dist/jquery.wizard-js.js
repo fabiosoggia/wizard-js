@@ -1,5 +1,5 @@
 /*
- *  jquery-wizard-js - v3.5.0
+ *  jquery-wizard-js - v1.0.0
  *  A jump-start for jQuery plugins development.
  *  http://jqueryboilerplate.com
  *
@@ -48,7 +48,7 @@
 				// jQuery Wrapper for element
 				var $element = $(this.element);
 
-				this.stepElements = $element.find(".wizard-step");
+				this.stepElements = $element.find(this.settings.steps);
 				this.stepsCount = this.stepElements.length;
 				this.setStep(0);
 
@@ -74,6 +74,7 @@
 					return;
 				}
 
+				// TO DO: You don't have to hide all the "tabs" everytime
 				this.stepElements.hide();
 				this.currentStep = index;
 
