@@ -14,7 +14,7 @@ WizardJS is a ridiculously easy jQuery plugin to create wizards.
 2. Include jQuery and plugin's code:
 
 	```html
-	<div id="wizard" action="">
+	<div id="wizard">
 		<div class="wizard-step">
 			<h2>Step 1</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, optio?</p>
