@@ -52,4 +52,4 @@ WizardJS is a ridiculously easy jQuery plugin to create wizards.
 
 ## License
 
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+MIT License © Fabio Soggia

@@ -1,9 +1,9 @@
 /*
  *  jquery-wizard-js - v1.0.0
- *  A jump-start for jQuery plugins development.
- *  http://jqueryboilerplate.com
+ *  WizardJS is a ridiculously easy jQuery plugin to create wizards.
+ *  https://github.com/fabiosoggia/wizard-js
  *
- *  Made by Zeno Rocha
+ *  Made by Fabio Soggia
  *  Under MIT License
  */
 // the semi-colon before function invocation is a safety net against concatenated

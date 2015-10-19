@@ -1,18 +1,14 @@
 {
 	"name": "wizard-js",
-	"version": "3.5.0",
-	"homepage": "http://jqueryboilerplate.com",
-	"authors": [
-		"Zeno Rocha <hi@zenorocha.com>"
-	],
-	"description": "A jump-start for jQuery plugins development.",
+	"version": "1.0.0",
+	"homepage": "https://github.com/fabiosoggia/wizard-js",
+	"description": "WizardJS is a ridiculously easy jQuery plugin to create wizards.",
 	"main": "src/jquery.wizard-js.js",
 	"keywords": [
 		"jquery",
 		"plugin",
-		"boilerplate",
-		"jquery-plugin",
-		"jquery-boilerplate"
+		"wizard",
+		"jquery-plugin"
 	],
 	"license": "MIT"
 }

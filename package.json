@@ -1,7 +1,7 @@
 {
   "name": "jquery-wizard-js",
   "version": "1.0.0",
-  "description": "A jump-start for jQuery plugins development.",
+  "description": "WizardJS is a ridiculously easy jQuery plugin to create wizards.",
   "keywords": [
     "jquery-plugin",
     "jquery",
@@ -10,34 +10,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jquery-boilerplate/jquery-boilerplate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jquery-boilerplate/jquery-boilerplate/issues"
+    "url": "https://github.com/fabiosoggia/wizard-js.git"
   },
   "author": {
-    "name": "Zeno Rocha",
-    "email": "zno.rocha@gmail.com",
-    "url": "https://github.com/zenorocha"
+    "name": "Fabio Soggia",
+    "url": "https://github.com/fabiosoggia"
   },
-  "homepage": "http://jqueryboilerplate.com",
-  "contributors": [
-    {
-      "name": "Zeno Rocha",
-      "email": "zno.rocha@gmail.com",
-      "url": "https://github.com/zenorocha"
-    },
-    {
-      "name": "Addy Osmani",
-      "email": "addyosmani@gmail.com",
-      "url": "https://github.com/addyosmani"
-    },
-    {
-      "name": "Helder Santana",
-      "email": "heldr@me.com",
-      "url": "https://github.com/heldr"
-    }
-  ],
+  "homepage": "https://github.com/fabiosoggia/wizard-js",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.5",
