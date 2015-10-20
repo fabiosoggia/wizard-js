@@ -8,6 +8,7 @@ WizardJS is a ridiculously easy jQuery plugin to create wizards.
 
 ```html
 <div id="wizard">
+	<h1>My wizard</h1>
 	<div class="wizard-step">
 		<h2>Step 1</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, optio?</p>
@@ -29,8 +30,8 @@ WizardJS is a ridiculously easy jQuery plugin to create wizards.
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, necessitatibus?</p>
 	</div>
 	<div>
-		<a href="#" class="next">Next</a>
 		<a href="#" class="previous">Previous</a>
+		<a href="#" class="next">Next</a>
 	</div>
 </div>
 ```
